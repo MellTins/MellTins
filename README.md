@@ -1,6 +1,33 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
-<p>Eu sou Melissa, tenho 28 anos e sou autodidata iniciante em programação.</p> 
+# Melissa Martins
+
+<p>Olá, seja bem-vindo ao meu perfil do GitHub! 👋</p>
+
+<p>Me chamo Melissa e sou uma entusiasta da programação e desenvolvimento de software. Atualmente, estou embarcando na empolgante jornada de aprendizado no vasto mundo da tecnologia. Aqui, você encontrará uma variedade de projetos que refletem meu interesse em HTML5, CSS3 e JavaScript/ECMAScript.</p>
+
+## Sobre Mim
+
+- 💻 Buscando aprender a codar de forma inteligente e limpa.
+- 🌐 Estudando para ser capaz de contribuir em projetos open-source.
+- 📚 Sempre aprendendo e aprimorando minhas habilidades.
+
+## Principais Tecnologias
+
+- 🚀 HTML5 / CSS3
+- 🌐 Desenvolvimento web: Iniciando em JavaScript/ECMAScript
+
+## Projetos Destacados
+
+- Atualmente trabalhando em uma réplica do Spotify, no projeto de Imersão da Alura!
+- [Projeto Android](https://melltins.github.io/projeto-android/) - Feito sob os ensinamentos do Professor Gustavo Guanabara, do CursoemVídeo.
+- [Analisador de Números](https://melltins.github.io/Analisador-de-n-meros/modelo.html) - Projeto simplíssimo apenas para testar meus conhecimentos básicos de JavaScript.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e feedback construtivo. Obrigado por visitar!
+
+Happy coding! 🚀
+
+
 
  <div>
    <a href="https://github.com/MellTins">
@@ -16,7 +43,7 @@
  
 <br>
  
-### Minhas Redes Sociais!
+### Contatos
  
 <div> 
   
