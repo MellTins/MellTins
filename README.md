@@ -19,7 +19,7 @@
 
 ## Projetos Destacados
 
-- Atualmente trabalhando em uma réplica do Spotify, no projeto de Imersão da Alura!
+- [Projeto Spotify](https://melltins.github.io/Imersao_spotify/) - Landing Page do Spotify feito na imersão Front-End da Alura.
 - [Projeto Android](https://melltins.github.io/projeto-android/) - Feito sob os ensinamentos do Professor Gustavo Guanabara, do CursoemVídeo.
 - [Analisador de Números](https://melltins.github.io/Analisador-de-n-meros/modelo.html) - Projeto simplíssimo apenas para testar meus conhecimentos básicos de JavaScript.
 
