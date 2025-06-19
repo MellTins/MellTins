@@ -4,7 +4,7 @@
 
 <p>Olá, seja bem-vindo ao meu perfil do GitHub! 👋</p>
 
-<p>Me chamo Melissa e sou uma entusiasta da programação e desenvolvimento de software. Atualmente, estou embarcando na empolgante jornada de aprendizado no vasto mundo da tecnologia. Aqui, você encontrará uma variedade de projetos que refletem meu interesse em HTML5, CSS3 e JavaScript/ECMAScript.</p>
+<p>Me chamo Melissa e sou uma entusiasta da programação e desenvolvimento de software. Atualmente, estou embarcando na empolgante jornada de aprendizado no vasto mundo da tecnologia. Atualmente estudando a C#.</p>
 
 ## Sobre Mim
 
@@ -14,8 +14,11 @@
 
 ## Principais Tecnologias
 
-- 🚀 HTML5 / CSS3
-- 🌐 Desenvolvimento web: Iniciando em JavaScript/ECMAScript
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## Projetos Destacados
 
@@ -27,24 +30,14 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 
 Happy coding! 🚀
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MellTins&theme=transparent&bg_color=E6E6FA&border_color=8A9A5B&show_icons=true&icon_color=8A9A5B&title_color=8A9A5B&text_color=8A9A5B)
 
-
- <div>
-   <a href="https://github.com/MellTins">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MellTins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MellTins&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
 <br>
- 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MellTins&bg_color=E6E6FA&border_color=8A9A5B&title_color=8A9A5B&text_color=8A9A5B)
+
 ### Contatos
- 
+
 <div> 
   
   <a href = "mailto:melmartins.pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
